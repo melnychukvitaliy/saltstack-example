@@ -1,2 +1,2 @@
 # saltstack-example
-An Example how to use saltstack with dockers
+Example of how to use saltstack with dockers
